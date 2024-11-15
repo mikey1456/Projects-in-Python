@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Michael Shodunke.
+This is my project page for projects invloving code in Python. 
 
-- 👀 I’m interested in Coding, Maths, History, Politics etc.
+I've seperated it into two parts, one for code in relation to school projects and another for code that I do in my free-time.
 
-- 🌱 I’m currently studying Computer Science and Mathematics @ RHUL (now Keele).
+My side projects are divided into two categories:
+<b1 Side Projects: />
+1. Scientific Computing, Artificial Intelligence and Data Science:
+   - Mathematical and Statistical Simulations
+   - Machine Learning, Deep Learning and other aspects of Artificial Intelligence
+   - Computational Finance
+   - Computational Physics
 
-- I've attached several code repositories of projects I've been working during my time in university including side projects for different functionalities.
+2. Cyber & Information Security:
+   - Encryption and Decryption Algorithms
+   - Simulating different cyber-attacks
+   - Creating APIs
 
-- Sit back and Enjoy the code!
+  
+   
+
+
+   
 
