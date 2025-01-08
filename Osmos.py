@@ -1,3 +1,10 @@
+############################
+#   First-Year Project:    #
+#   Adaptation of Osmos    #
+#                          #
+############################
+
+
 import simplegui, random, math
 
 CANVAS_WIDTH = 500
