@@ -18,9 +18,9 @@ I've separated it into two parts: one for school-related projects and another fo
 ### 3. Third Year:
 - Third Year Project (Python Implementation Only)
 
----
 
-## Side Projects
+## Side Projects:
+
 
 ### 1. Scientific Computing, Artificial Intelligence, and Data Science:
 - Mathematical and Statistical Simulations
